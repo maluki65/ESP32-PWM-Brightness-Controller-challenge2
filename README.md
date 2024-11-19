@@ -1,4 +1,3 @@
-# ESP32-PWM-Brightness-Controller-challenge2
 # ESP32 LED Brightness Control via WebSocket
 
 ## Overview
